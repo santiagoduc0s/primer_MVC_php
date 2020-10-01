@@ -1,0 +1,1 @@
+<script src="<?php echo SERVER_URL; ?>public/js/main.js"></script>
